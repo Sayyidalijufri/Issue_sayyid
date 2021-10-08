@@ -2,4 +2,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
+}
+
+
+h1{
+  line-height: 50vh;
+  margin-left: 25vw;
+}
+
+h2{
+  margin-left: 45vw;
+  margin-top: -100px
 }
