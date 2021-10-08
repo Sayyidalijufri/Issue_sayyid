@@ -19,5 +19,15 @@ h2{
 
 button{
   background:linear-gradient(190deg, aqua, blue);
-  color: white
+  color: white;
+  outline:0;
+  border: 0;
+  padding: 10px;
+}
+button:hover{
+  background:linear-gradient(160deg, aqua, blue);
+  color: white;
+  outline:0;
+  border: 0;
+  padding: 10px;
 }
