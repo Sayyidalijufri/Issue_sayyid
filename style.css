@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: inherit;
   
 }
 
@@ -14,4 +15,9 @@ h1{
 h2{
   margin-left: 45vw;
   margin-top: -100px
+}
+
+button{
+  background:linear-gradient(190deg, aqua, blue);
+  color: white
 }
