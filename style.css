@@ -29,5 +29,23 @@ button:hover{
   color: white;
   outline:0;
   border: 0;
+  padding: 11px;
+  transition: 1s;
+}
+button:active{
+  background:linear-gradient(180deg, aqua, blue);
+  color: white;
+  outline:0;
+  border: 0;
+  padding: 10px;
+  transform: rotate(2520deg) ;
+  transition: 7s;
+}
+
+button:active{
+  background:linear-gradient(180deg, aqua, blue);
+  color: white;
+  outline:0;
+  border: 0;
   padding: 10px;
 }
